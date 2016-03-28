@@ -26,7 +26,8 @@
 70 seventy
 80 eighty
 90 ninety
-100 hundred
-1000 thousand
-1000000 million
-1000000000 billion milliard
+100 hundred hundreds
+1000 thousand thousands
+1000000 million millions
+1000000000 milliard billion
+1
